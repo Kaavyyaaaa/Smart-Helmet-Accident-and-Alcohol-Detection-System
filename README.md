@@ -53,6 +53,8 @@ The system is divided into **two independent units**:
 - Relay module for ignition control
 - 7805 voltage regulator
 - 16×2 LCD for system feedback
+  ![Bike_unit](https://github.com/user-attachments/assets/c29a6bac-cf3a-468d-b029-1ef3b04a6851)
+
 
 ---
 
