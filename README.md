@@ -106,7 +106,6 @@ Location: http://maps.google.com/maps?q=
 
 ## 📂 Repository Structure
 Smart-Helmet-Ignition-Accident-Detection/
-│
 ├── README.md
 │
 ├── code/
@@ -127,8 +126,8 @@ Smart-Helmet-Ignition-Accident-Detection/
 │ ├── bike_unit.jpg
 │ └── working_demo.jpg
 │
-├── report/
-│ └── Smart_Helmet_Project_Report.pdf
+└── report/
+└── Smart_Helmet_Project_Report.pdf
 
 ## 🚧 Challenges & Limitations
 
