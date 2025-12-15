@@ -131,6 +131,7 @@ Smart-Helmet-Ignition-Accident-Detection/
 │
 └── report/
     └── Smart_Helmet_Project_Report.pdf
+```
 
 ## 🚧 Challenges & Limitations
 
