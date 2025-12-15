@@ -124,10 +124,6 @@ Smart-Helmet-Ignition-Accident-Detection/
 │       ├── bike_unit.ino
 │       └── README.md
 │
-├── circuit_diagrams/
-│   ├── helmet_circuit.png
-│   └── bike_circuit.png
-│
 ├── images/
 │   ├── helmet_prototype.jpg
 │   ├── bike_unit.jpg
