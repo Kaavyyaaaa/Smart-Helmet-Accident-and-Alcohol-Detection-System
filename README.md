@@ -105,10 +105,29 @@ Location: http://maps.google.com/maps?q=
 ---
 
 ## 📂 Repository Structure
-├── code/                 # ESP32 source code
-├── circuit_diagrams/     # Hand-drawn & schematic diagrams
-├── images/               # Prototype & demo images
-├── report/               # Final project report
+Smart-Helmet-Ignition-Accident-Detection/
+├── README.md
+│
+├── code/
+│   ├── helmet_unit/
+│   │   ├── helmet_unit.ino
+│   │   └── README.md
+│   │
+│   └── bike_unit/
+│       ├── bike_unit.ino
+│       └── README.md
+│
+├── circuit_diagrams/
+│   ├── helmet_circuit.png
+│   └── bike_circuit.png
+│
+├── images/
+│   ├── helmet_prototype.jpg
+│   ├── bike_unit.jpg
+│   └── working_demo.jpg
+│
+└── report/
+    └── Smart_Helmet_Project_Report.pdf
 
 ## 🚧 Challenges & Limitations
 
