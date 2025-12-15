@@ -105,6 +105,9 @@ Location: http://maps.google.com/maps?q=
 ---
 
 ## 📂 Repository Structure
+### Repository Structure
+
+```text
 Smart-Helmet-Ignition-Accident-Detection/
 ├── README.md
 │
