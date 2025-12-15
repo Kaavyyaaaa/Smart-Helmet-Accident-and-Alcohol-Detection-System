@@ -42,6 +42,8 @@ The system is divided into **two independent units**:
 - Limit switch for helmet detection
 - 18650 Li-ion battery with TP4056 charging module
 - Sends helmet status and alcohol data wirelessly to bike unit
+  ![Helmet_unit](https://github.com/user-attachments/assets/b5d3761f-61b2-4b2d-aceb-1361b2c1cc29)
+
 
 ### 🔹 Bike Unit (Receiver)
 - ESP32 microcontroller
